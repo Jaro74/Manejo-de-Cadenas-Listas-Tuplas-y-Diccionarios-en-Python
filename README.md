@@ -29,14 +29,15 @@ ActivityUnit4/
 │
 ├── functions/
 │ ├── init.py
-│ ├── cadenas.py # Operaciones con cadenas
-│ ├── listas.py # Gestión de listas de productos
-│ ├── tuplas.py # Operaciones con tuplas
-│ └── diccionarios.py # Gestión de productos y precios
-│
+│ ├── functions.py/
+│ │ ├── cadenas # Operaciones con cadenas
+│ │ ├── listas # Gestión de listas de productos
+│ │ ├── tuplas # Operaciones con tuplas
+│ │ └── diccionarios # Gestión de productos y precios
+│ │
 ├── utility/
 │ ├── init.py
-│ └── validaciones.py # Funciones de validación reutilizables
+│ └── utility.py # Funciones de validación reutilizables
 │
 └── .venv/ # Entorno virtual
 
